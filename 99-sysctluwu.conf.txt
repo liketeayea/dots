@@ -72,7 +72,7 @@ kernel.perf_event_max_sample_rate = 1
 kernel.perf_cpu_time_max_percent = 1
 
 # Prohibition of loading modules (except those already loaded to this 
-kernel.modules_disabled = 1
+#kernel.modules_disabled = 1
 
 kernel.yama.ptrace_scope = 3
 
